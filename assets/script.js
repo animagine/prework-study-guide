@@ -1,3 +1,4 @@
+var topics = ['HTML','CSS','Git','Javascript'];
 var randomTopic = ['HTML', 'CSS', 'Git', 'JavaScript'][Math.floor(Math.random() * ['HTML', 'CSS', 'Git', 'JavaScript'].length)];
 
 function listTopics() {
